@@ -1,11 +1,11 @@
-package com.example.implictintent
+package com.example.implictintent1;
 
-import android.app.Activity
 import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import android.app.Activity
 import com.example.implicitintent1.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
